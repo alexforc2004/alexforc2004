@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 WHOAMI
+##  WHOAMI
 
 ```bash
 ┌──(azzedine㉿github)-[~]
@@ -32,11 +32,11 @@ Full Stack Developer | Cybersecurity Enthusiast
 Ethical Hacking | Web Security | Linux
 ```
 
-- 💻 Interested in building modern and secure web applications.
-- 🛡️ Learning penetration testing and vulnerability assessment.
-- 🐉 Exploring Kali Linux, networking, and security tools.
-- 🎯 Practicing cybersecurity in authorized labs and CTF environments.
-- 🚀 Improving my skills through hands-on projects and continuous learning.
+-  Interested in building modern and secure web applications.
+-  Learning penetration testing and vulnerability assessment.
+-  Exploring Kali Linux, networking, and security tools.
+-  Practicing cybersecurity in authorized labs and CTF environments.
+-  Improving my skills through hands-on projects and continuous learning.
 
 ```text
 [+] MINDSET    : Think like a developer. Test like a pentester.
@@ -46,9 +46,9 @@ Ethical Hacking | Web Security | Linux
 
 ---
 
-## ⚔️ TECH ARSENAL
+##  TECH ARSENAL
 
-### 💻 Programming Languages & Full Stack Development
+###  Programming Languages & Full Stack Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,mongodb,python,bash&theme=dark&perline=5" alt="Programming Languages and Web Development"/>
@@ -67,7 +67,7 @@ Ethical Hacking | Web Security | Linux
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
-### 🖥️ Operating Systems, Networking & DevOps
+###  Operating Systems, Networking & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,vscode,nginx,apache&theme=dark&perline=7" alt="Systems and DevOps"/>
@@ -82,7 +82,7 @@ Ethical Hacking | Web Security | Linux
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 🛡️ Cybersecurity & Pentesting Tools
+###  Cybersecurity & Pentesting Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
@@ -102,7 +102,7 @@ Ethical Hacking | Web Security | Linux
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### 🔬 Pentesting Methodology
+###  Pentesting Methodology
 
 <p align="center">
   <img src="https://img.shields.io/badge/Reconnaissance-0A66C2?style=for-the-badge" alt="Reconnaissance"/>
@@ -114,7 +114,7 @@ Ethical Hacking | Web Security | Linux
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
+##  GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Ethical Hacking | Web Security | Linux
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
+##  CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Ethical Hacking | Web Security | Linux
 
 ---
 
-## 🎯 CURRENT OPERATIONS
+##  CURRENT OPERATIONS
 
 ```text
 [01] WEB DEVELOPMENT
@@ -166,7 +166,7 @@ Ethical Hacking | Web Security | Linux
 
 ---
 
-## 🧪 PROJECTS & LABS
+##  PROJECTS & LABS
 
 <div align="center">
 
@@ -185,19 +185,9 @@ Ethical Hacking | Web Security | Linux
 
 *Replace these examples with actual repositories as you create and publish them.*
 
----
 
-## 📈 ACTIVITY MONITOR
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexforc2004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🤝 CONNECT WITH ME
+##  CONNECT WITH ME
 
 <div align="center">
 
