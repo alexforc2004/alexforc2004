@@ -1,18 +1,18 @@
-<h1 align="center">Hi I'm Azzedine Oubaid</h1>
+<h1 align="center">Hi 👋, I'm Azzedine Oubaid</h1>
 <h3 align="center">Full Stack Developer & Cybersecurity Pentester</h3>
 
 <p align="center">
-  <b> Full Stack Developer |  Cybersecurity Pentester</b><br/>
+  <b>💻 Full Stack Developer | 🛡️ Cybersecurity Pentester</b><br/>
   <i>Passionate about building secure web apps and breaking them.</i>
 </p>
 
 <p align="center">
-   Freelancer &nbsp;|&nbsp; Active CTF Player &nbsp;|&nbsp; Open Source Contributor
+  🚀 Freelancer &nbsp;|&nbsp; 🚩 Active CTF Player &nbsp;|&nbsp; 💻 Open Source Contributor
 </p>
 
 <br/>
 
-<!-- ===== DEV ===== -->
+<!-- ===== BADGES (L'FO9) ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<!-- ===== OS / LANGUAGES ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,7 +33,6 @@
   <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrot-security&logoColor=black" />
 </p>
 
-<!-- ===== OFFENSIVE TOOLS ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
@@ -56,7 +54,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- ===== SKILLS ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Recon-0A66C2?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Scanning-FF4500?style=for-the-badge&logo=radar&logoColor=white" />
@@ -67,7 +64,17 @@
 
 <br/>
 
-<!-- ===== SOCIAL ===== -->
+<!-- ===== L'ICONES SGHAR L'TE7T (GHIR LI KAYNIN F SITE) ===== -->
+<h3 align="center">🛠️ Technologies I Use</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,mysql,mongodb,bash,py,linux,kali,arch,docker,git" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ===== INSTAGRAM & FOOTER ===== -->
 <p align="center">
   <a href="https://instagram.com/alexfor2004" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -75,6 +82,6 @@
 </p>
 
 <p align="center">
-  <b> Full Stack Dev</b> &nbsp;|&nbsp; <b> Pentester</b><br/>
+  <b>💻 Full Stack Dev</b> &nbsp;|&nbsp; <b>🛡️ Pentester</b><br/>
   I build secure apps — and break them to prove it.
 </p>
