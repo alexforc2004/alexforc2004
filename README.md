@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h1 align="center">Hi I'm azzedine oubaid</h1>
 <h3 align="center">Full Stack Developer & Cybersecurity Pentester</h3>
 
 <!-- ===== DEV ===== -->
@@ -55,6 +55,6 @@
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Dev</b> &nbsp;|&nbsp; <b>🛡️ Pentester</b><br/>
+  <b>Full Stack Dev</b> &nbsp;|&nbsp; <b>Pentester</b><br/>
   I build secure apps — and break them to prove it.
 </p>
