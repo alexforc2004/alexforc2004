@@ -64,3 +64,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,mysql,mongodb,bash,py,linux,kali,arch,parrot,docker,git,postman" />
+  </a>
+</p>
