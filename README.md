@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack Developer & Cybersecurity Pentester</h3>
 
 <p align="center">
-  <b>💻 Full Stack Developer |  Cybersecurity Pentester</b><br/>
+  <b> Full Stack Developer |  Cybersecurity Pentester</b><br/>
   <i>Passionate about building secure web apps and breaking them.</i>
 </p>
 
 <p align="center">
-  🚀 Freelancer &nbsp;|&nbsp; Active CTF Player &nbsp;|&nbsp; Open Source Contributor
+   Freelancer &nbsp;|&nbsp; Active CTF Player &nbsp;|&nbsp; Open Source Contributor
 </p>
 
 <br/>
