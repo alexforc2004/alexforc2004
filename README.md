@@ -188,14 +188,14 @@ Ethical Hacking | Web Security | Linux
 
 ##  ALEX MUSIC PLAYER
 
-<p align="center">
-  <a href="https://alexforc2004.github.io/alexforc2004-player/">
-    <img src="https://img.shields.io/badge/▶_LISTEN_TO_RAYA-00FFE1?style=for-the-badge&logo=spotify&logoColor=black" alt="Listen to RAYA"/>
-  </a>
-</p>
 
 <p align="center">
-  <i>ALEXFORC</i>
+  <a href="https://alexforc2004.github.io/alexforc2004-player/">
+    <img
+      src="https://img.shields.io/badge/GHOSTFACE-▶%20PLAY%20RAYA-00FFE1?style=for-the-badge&labelColor=080B10"
+      alt="GHOSTFACE - Play RAYA"
+    />
+  </a>
 </p>
 
 
