@@ -58,3 +58,9 @@
   <b>Full Stack Dev</b> &nbsp;|&nbsp; <b>Pentester</b><br/>
   I build secure apps — and break them to prove it.
 </p>
+<!-- ===== SOCIAL ===== -->
+<p align="center">
+  <a href="https://instagram.com/INSTAGRAM_USERNAME_DYALEK" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
