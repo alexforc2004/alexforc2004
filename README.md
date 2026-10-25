@@ -186,6 +186,18 @@ Ethical Hacking | Web Security | Linux
 *Replace these examples with actual repositories as you create and publish them.*
 
 
+##  ALEX MUSIC PLAYER
+
+<p align="center">
+  <a href="https://alexforc2004.github.io/alexforc2004-player/">
+    <img src="https://img.shields.io/badge/▶_LISTEN_TO_RAYA-00FFE1?style=for-the-badge&logo=spotify&logoColor=black" alt="Listen to RAYA"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>ALEXFORC</i>
+</p>
+
 
 ##  CONNECT WITH ME
 
