@@ -1,5 +1,16 @@
-<h1 align="center">Hi I'm azzedine oubaid</h1>
+<h1 align="center">Hi I'm Azzedine Oubaid</h1>
 <h3 align="center">Full Stack Developer & Cybersecurity Pentester</h3>
+
+<p align="center">
+  <b>💻 Full Stack Developer |  Cybersecurity Pentester</b><br/>
+  <i>Passionate about building secure web apps and breaking them.</i>
+</p>
+
+<p align="center">
+  🚀 Freelancer &nbsp;|&nbsp; Active CTF Player &nbsp;|&nbsp; Open Source Contributor
+</p>
+
+<br/>
 
 <!-- ===== DEV ===== -->
 <p align="center">
@@ -54,20 +65,16 @@
   <img src="https://img.shields.io/badge/Reporting-2E8B57?style=for-the-badge&logo=document&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>Full Stack Dev</b> &nbsp;|&nbsp; <b>Pentester</b><br/>
-  I build secure apps — and break them to prove it.
-</p>
+<br/>
+
 <!-- ===== SOCIAL ===== -->
 <p align="center">
-  <a href="https://instagram.com/cyb_erse_curity93" target="_blank">
+  <a href="https://instagram.com/alexfor2004" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,mysql,mongodb,bash,py,linux,kali,arch,parrot,docker,git,postman" />
-  </a>
+<p align="center">
+  <b> Full Stack Dev</b> &nbsp;|&nbsp; <b> Pentester</b><br/>
+  I build secure apps — and break them to prove it.
 </p>
