@@ -19,7 +19,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: alexfor2004
+          github_user_name: alexforc2004
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
