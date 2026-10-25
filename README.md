@@ -64,7 +64,7 @@
 
 <br/>
 
-### 🛠️ Languages and Tools
+ Languages and Tools
 <p align="left">
   <a href="https://github.com/alexfor2004">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
