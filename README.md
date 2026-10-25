@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Azzedine Oubaid</h1>
+<h1 align="center">Hi , I'm Azzedine Oubaid</h1>
 <h3 align="center">Full Stack Developer & Cybersecurity Pentester</h3>
 
 <p align="center">
-  <b>💻 Full Stack Developer | 🛡️ Cybersecurity Pentester</b><br/>
+  <b> Full Stack Developer |  Cybersecurity Pentester</b><br/>
   <i>Passionate about building secure web apps and breaking them.</i>
 </p>
 
 <p align="center">
-  🚀 Freelancer &nbsp;|&nbsp; 🚩 Active CTF Player &nbsp;|&nbsp; 💻 Open Source Contributor
+   Freelancer &nbsp;|&nbsp;  Active CTF Player &nbsp;|&nbsp;  Open Source Contributor
 </p>
 
 <br/>
@@ -65,7 +65,7 @@
 <br/>
 
 <!-- ===== L'ICONES SGHAR L'TE7T (GHIR LI KAYNIN F SITE) ===== -->
-<h3 align="center">🛠️ Technologies I Use</h3>
+<h3 align="center"> Technologies I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,mysql,mongodb,bash,py,linux,kali,arch,docker,git" />
@@ -82,6 +82,6 @@
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Dev</b> &nbsp;|&nbsp; <b>🛡️ Pentester</b><br/>
+  <b> Full Stack Dev</b> &nbsp;|&nbsp; <b> Pentester</b><br/>
   I build secure apps — and break them to prove it.
 </p>
