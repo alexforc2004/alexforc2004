@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="assets/hacker.gif" width="100%" alt="Cyberpunk Hacker Animation" />
+
+</div>
+
+
+
+
+
+
+
+<div align="center">
+
 # AZZEDINE OUBAID
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;CYBERSECURITY+%7C+ETHICAL+HACKING;BUILD+SECURE.+THINK+LIKE+AN+ATTACKER.;RECON+%7C+ANALYZE+%7C+SECURE" alt="Typing SVG"/>
@@ -138,14 +150,6 @@ Ethical Hacking | Web Security | Linux
 
 </div>
 
-
-
-
-<div align="center">
-
-<img src="assets/hacker.gif" width="100%" alt="Cyberpunk Hacker Animation" />
-
-</div>
 ---
 
 ##  CURRENT OPERATIONS
