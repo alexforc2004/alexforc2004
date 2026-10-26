@@ -138,6 +138,14 @@ Ethical Hacking | Web Security | Linux
 
 </div>
 
+
+
+
+<div align="center">
+
+<img src="assets/hacker.gif" width="100%" alt="Cyberpunk Hacker Animation" />
+
+</div>
 ---
 
 ##  CURRENT OPERATIONS
